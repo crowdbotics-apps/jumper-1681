@@ -1,0 +1,3 @@
+rootProject.name = 'jumper_1681'
+
+include ':app'
